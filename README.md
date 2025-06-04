@@ -1,4 +1,4 @@
-﻿# 🤖 Intelligent Multi-Agent HR Automation System
+﻿#Intelligent Multi-Agent HR Automation System
 
 > **Conception et développement d'un système multi-agent intelligent pour l'automatisation des processus RH**
 
@@ -205,10 +205,9 @@ P2M/
 ```
 CV Upload → Data Extraction → Job Matching → Scoring → Ranking
 ```
-![Editor _ Mermaid Chart-2025-05-25-204642](https://github.com/user-attachments/assets/ed9023a8-0fc1-4a79-a78e-e5e6f60e1603)
+
 
 ### Email Automation Agents
-![crewai](https://github.com/user-attachments/assets/49e3e7f0-1e5b-4706-b842-16c098457ffe)
 - **csv_extractor**: Processes candidate data files
 - **email_creator**: Generates personalized email drafts
 - **output_formatter**: Formats emails for delivery
