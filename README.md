@@ -210,14 +210,11 @@ CV Upload → Data Extraction → Job Matching → Scoring → Ranking
 </div>
 
 ### Email Automation Agents
+![crewai](https://github.com/user-attachments/assets/8d68d5dc-7832-4b57-b5a4-d8d45696b8c1)
+
 - **csv_extractor**: Processes candidate data files
 - **email_creator**: Generates personalized email drafts
 - **output_formatter**: Formats emails for delivery
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/cbcff207-297f-4145-ae2a-96a57f313a30" width="300"/>
-</div>
-
 
 ## 📸 Screenshots
 
