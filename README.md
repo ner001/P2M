@@ -212,7 +212,7 @@ CV Upload → Data Extraction → Job Matching → Scoring → Ranking
 - **email_creator**: Generates personalized email drafts
 - **output_formatter**: Formats emails for delivery
 
-<img src="https://github.com/user-attachments/assets/cbcff207-297f-4145-ae2a-96a57f313a30" width="300"/>
+<img src="https://github.com/user-attachments/assets/cbcff207-297f-4145-ae2a-96a57f313a30" width="400"/>
 
 ## 📸 Screenshots
 
