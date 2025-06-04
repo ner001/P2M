@@ -205,12 +205,14 @@ P2M/
 ```
 CV Upload → Data Extraction → Job Matching → Scoring → Ranking
 ```
-
+<img src="https://github.com/user-attachments/assets/dc923aae-d585-4aed-b439-526e6be23418" width="400"/>
 
 ### Email Automation Agents
 - **csv_extractor**: Processes candidate data files
 - **email_creator**: Generates personalized email drafts
 - **output_formatter**: Formats emails for delivery
+
+<img src="https://github.com/user-attachments/assets/cbcff207-297f-4145-ae2a-96a57f313a30" width="300"/>
 
 ## 📸 Screenshots
 
