@@ -1,5 +1,3 @@
-﻿#Intelligent Multi-Agent HR Automation System
-
 > **Conception et développement d'un système multi-agent intelligent pour l'automatisation des processus RH**
 
 A comprehensive AI-powered solution for automating HR recruitment processes, featuring intelligent CV filtering, automated email generation, and candidate profile discovery from professional platforms.
