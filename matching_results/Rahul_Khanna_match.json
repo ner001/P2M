@@ -1,0 +1,178 @@
+[
+    {
+      "requirement": "Machine Learning Engineer",
+      "match": "FULL",
+      "evidence": "Candidate has 5+ years of experience in application design, development, testing, and deployment.",
+      "source": "RESUME",
+      "importance": null
+    },
+    {
+      "requirement": "Machine learning algorithms",
+      "match": "FULL",
+      "evidence": "Developed a machine learning pipeline and trained models with the end-to-end Bayesian segmentation network, resulting in $400,000 annual savings.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Artificial intelligence principles",
+      "match": "FULL",
+      "evidence": "Summary highlights passion for machine learning and comprehensive knowledge of AI concepts.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Data preprocessing and analysis",
+      "match": "PARTIAL",
+      "evidence": "Experience in data analysis and numeric computations.",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Mathematical modeling and optimization",
+      "match": "PARTIAL",
+      "evidence": "Background in mathematics and programming languages might be relevant, but not explicitly mentioned.",
+      "source": "RESUME",
+      "importance": 0.5
+    },
+    {
+      "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+      "match": "FULL",
+      "evidence": "Experience with these frameworks as mentioned in key accomplishments.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Natural language processing",
+      "match": "PARTIAL",
+      "evidence": "Proficient in NLP and background in programming languages might be relevant.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Computer vision and image processing",
+      "match": "MISSING",
+      "evidence": "",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Python programming",
+      "match": "FULL",
+      "evidence": "Experience with Python programming as mentioned in technical skills.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "R programming",
+      "match": "PARTIAL",
+      "evidence": "No direct mention of R programming experience.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Java programming",
+      "match": "PARTIAL",
+      "evidence": "No direct mention of Java programming experience.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "C++ programming",
+      "match": "PARTIAL",
+      "evidence": "No direct mention of C++ programming experience.",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "TensorFlow",
+      "match": "FULL",
+      "evidence": "Experience with TensorFlow as mentioned in key accomplishments.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "PyTorch",
+      "match": "FULL",
+      "evidence": "Experience with PyTorch as mentioned in key accomplishments.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Keras",
+      "match": "FULL",
+      "evidence": "Experience with Keras as mentioned in key accomplishments.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "scikit-learn",
+      "match": "PARTIAL",
+      "evidence": "No direct mention of scikit-learn experience.",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "OpenCV",
+      "match": "MISSING",
+      "evidence": "",
+      "source": "RESUME",
+      "importance": 0.5
+    },
+    {
+      "requirement": "2+ years of AI engineering experience",
+      "match": "FULL",
+      "evidence": "Candidate has 5+ years of experience, meeting the requirement.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "1-2 years of research or development experience in AI/ML",
+      "match": "PARTIAL",
+      "evidence": "Background in AI engineering and machine learning might be relevant but not explicitly mentioned.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Portfolio of AI-related projects or publications",
+      "match": "FULL",
+      "evidence": "Developed machine learning pipeline and trained models with end-to-end Bayesian segmentation network, resulting in $400,000 annual savings.",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Master's degree in Computer Science, AI, or related field",
+      "match": "MISSING",
+      "evidence": "Candidate holds a Bachelor's degree in an unspecified field, which does not meet the requirement.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, AI, or related field with relevant certifications",
+      "match": "MISSING",
+      "evidence": "Candidate lacks required education and certifications.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Effective communication and presentation",
+      "match": "FULL",
+      "evidence": "Summary highlights passion for machine learning and comprehensive knowledge of AI concepts, suggesting effective communication skills.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Collaboration and teamwork",
+      "match": "PARTIAL",
+      "evidence": "No direct mention of collaboration or teamwork experience.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Adaptability and continuous learning",
+      "match": "PARTIAL",
+      "evidence": "Background in programming languages and AI engineering might indicate adaptability and willingness to learn.",
+      "source": "RESUME",
+      "importance": 0.6
+    }
+  ]
+  

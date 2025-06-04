@@ -1,0 +1,25 @@
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "FULL",
+    "evidence": "Learnt and adapted new technologies to build cutting-edge artificial intelligence products. Developed data science skills to prototype machine learning model applications.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "NEAR FULL",
+    "evidence": "Results-driven Artificial Intelligence Engineer with a solid background in machine learning and deep learning algorithms.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "PARTIAL",
+    "evidence": "Developed data science skills to prototype machine learning model applications.",
+    "source": "RESUME",
+    "importance": 0.6
+  }
+]
+

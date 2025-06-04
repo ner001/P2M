@@ -1,0 +1,72 @@
+{
+  "name": "Anne Frank",
+  "phone": "",
+  "email": "",
+  "links": [],
+  "experience": [
+    {
+      "company": "Oracle Cerner Healthcare Solutions India Pvt Ltd",
+      "title": "Senior Associate Software Engineer",
+      "description": "Learnt and adapted new technologies to build cutting-edge artificial intelligence products. Developed data science skills to prototype machine learning model applications. Created applications as per requirements to make critical predictions and decisions.",
+      "start_date": null,
+      "end_date": "Present"
+    },
+    {
+      "company": "Oracle Cerner Healthcare Solutions India Pvt Ltd",
+      "title": "Senior Associate Software Engineer",
+      "description": "Applied industry best practices for software development with Java and OIC technologies. Trouble-shoot complex problems or issues through in-depth analysis of variable data sets and factors. Provided guidance to new teams and mentored new associates joining the industry from academics.",
+      "start_date": null,
+      "end_date": "Dec 2022"
+    }
+  ],
+  "education": [
+    {
+      "institution": "International Institute of Professional Studies, DAVV",
+      "degree": "M: Tech IT (Integrated)",
+      "start_date": null,
+      "end_date": "Dec 2019"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java"
+    ],
+    "frameworks": [
+      "Oracle ADS SDKs",
+      "Oracle AutoML",
+      "Maven",
+      "Junit",
+      "Jersey"
+    ],
+    "skills": [
+      "Machine Learning Algorithms",
+      "Oracle ADS SDKs for Data Science and ML",
+      "Python for Data Science",
+      "Oracle AutoML",
+      "Java SE",
+      "Maven",
+      "Junit",
+      "Jersey for ReST APIs"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [],
+  "projects": [
+    "Preterm Birth Detection: Preterm birth detection model with EHR on people who are currently pregnant. Tech Stack: Python, Oracle ADS SDKs, Oracle AutoML",
+    "APP Enhancement: Enable Mid-level Provider to perform the operations that a full-fledged provider could do based on user privileges and preferences. Tech Stack: Java SE; Maven, Junit; Jersey Framework for ReST APIs, Git; Oracle SQL"
+  ],
+  "languages": [
+    "English",
+    "French",
+    "Arabic",
+    "German"
+  ],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Results-driven Artificial Intelligence Engineer with a solid background in machine learning and deep learning algorithms. Skilled in developing AI and ML models, analyzing complex data sets, and implementing natural language processing techniques. Proficient in programming languages such as Python and R. Strong problem-solving abilities and a track record of successful project delivery. Seeking to leverage my expertise to drive innovation and advanced AI technologies.",
+  "location": ""
+}

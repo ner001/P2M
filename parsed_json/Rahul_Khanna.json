@@ -1,0 +1,85 @@
+{
+  "name": "Rahul Khanna",
+  "phone": "9953776253",
+  "email": "info@getsetresumes.com",
+  "links": [
+    "linkedin.com/company/getsetresumes"
+  ],
+  "experience": [
+    {
+      "company": "Bellurbis LLC",
+      "title": "Machine Learning Engineer",
+      "description": "Developed and evaluated algorithms using machine learning and statistical modeling techniques to increase performance, quality, data management, and accuracy. Worked with Adobe's research teams to take cutting-edge research and turn it into excellent products and services. Developed, simulated, tested, and improved algorithms for estimating electrical load and generation. Consulted with managers to determine and refine machine learning objectives and developed ML algorithms to analyze huge volumes of historical data to make predictions. Designed machine learning systems and self-running artificial intelligence (AI) software to automate predictive models. Solved complex problems with multi-layered data sets, as well as optimized existing machine learning libraries and frameworks. Designed lean proofs of concepts (POC) to answer targeted business questions. Explored and worked with a wide range of proprietary, interesting data stores. Applied existing methods or developed new methods.",
+      "start_date": "Jan 2019",
+      "end_date": "Oct 2021"
+    },
+    {
+      "company": "Clarivate",
+      "title": "Machine Learning Engineer",
+      "description": "Developed and integrated large-scale, distributed machine learning system lifecycles utilizing cutting-edge open source technologies. Created software that helps you increase your rate of experimentation and make better decisions on what to explore next. Improved distributed cloud GPU training approaches for deep learning models, including data distribution editing, data quality improvements, and representation learning with self-supervision. Collaborated with multi-disciplinary product development teams to find possibilities for performance improvement and incorporate trained models. Developed a machine learning pipeline and trained models with the end-to-end Bayesian segmentation network, resulting in a $400,000 annual savings. Expertise in using PyTorch, TensorFlow, and Keras to train and deploy CNN, LSTM, and other Sequence models on Azure and AWS.",
+      "start_date": "Sept 2016",
+      "end_date": "Dec 2018"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amity University Lucknow",
+      "degree": "Bachelor's Degree in Computer Science",
+      "start_date": null,
+      "end_date": "2016"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "R",
+      "JavaScript",
+      "Java",
+      "Julia",
+      "Lisp"
+    ],
+    "frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "Keras"
+    ],
+    "skills": [
+      "NumPy",
+      "SciPy",
+      "Pandas",
+      "Seaborn",
+      "Matplotlib",
+      "Scikit-learn",
+      "NLTK",
+      "Spark",
+      "SQL",
+      "Hadoop Map Reduce",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Recommendation Systems",
+      "Natural Language Processing",
+      "Data Analysis",
+      "Numerical Computations",
+      "Predictive Modeling",
+      "Clustering Models",
+      "Data Structures"
+    ]
+  },
+  "key_accomplishments": "Developed a machine learning pipeline and trained models with the end-to-end Bayesian segmentation network, resulting in a $400,000 annual savings.",
+  "certifications": [],
+  "projects": [],
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [
+    "References and other documents available."
+  ],
+  "summary": "Innovative Machine Learning Engineer with 5+ years of experience in application design, development, testing, and deployment. Highly experienced in writing codes and algorithms as well as building complex neural networks through various programming languages. Possess an unbridled passion for machine learning with comprehensive knowledge of machine learning concepts and other related technologies. Unmatched abilities to identify, understand, and translate program requirements into sustainable, advanced technical solutions through C#, C++, JavaScript, Python, and other programs for continuous improvement of AI technologies.",
+  "location": "Greater Noida"
+}

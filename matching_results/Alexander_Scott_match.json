@@ -1,0 +1,60 @@
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "FULL",
+    "evidence": "Designed and developed machine learning algorithms and models tailored to specific applications such as image recognition, natural language processing, recommendation systems, or predictive analytics.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "PARTIAL",
+    "evidence": "Worked directly with the data science lead, quantitative science trainees, and clinical trainees who are involved in model development and validation, and developed utilities and frameworks to standardize and enhance the development and validation of machine learning systems.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "FULL",
+    "evidence": "Gathered and preprocessed large datasets for training machine learning models, ensuring data quality and compatibility with algorithm requirements.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+    "match": "FULL",
+    "evidence": "Designed and developed machine learning algorithms using TensorFlow and PyTorch.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Python programming",
+    "match": "FULL",
+    "evidence": "Worked with Python programming in designing and developing machine learning algorithms.",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "2+ years of AI engineering experience",
+    "match": "PARTIAL",
+    "evidence": "Has less than 2 years of AI engineering experience, but has research or development experience in AI/ML.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Master's degree in Computer Science, AI, or related field",
+    "match": "PARTIAL",
+    "evidence": "Has a Bachelor's degree in Computer Science, but no Master's degree.",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "Effective communication and presentation",
+    "match": "FULL",
+    "evidence": "Communicated effectively with the data science lead, quantitative science trainees, and clinical trainees.",
+    "source": "RESUME",
+    "importance": 0.8
+  }
+]
+

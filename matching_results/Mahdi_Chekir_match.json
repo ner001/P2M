@@ -1,0 +1,178 @@
+[
+    {
+      "requirement": "Machine learning algorithms",
+      "match": "FULL",
+      "evidence": "The candidate has expertise in machine learning and Generative AI.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Artificial intelligence principles",
+      "match": "FULL",
+      "evidence": "The candidate's background in ICT engineering and AI-related projects demonstrates understanding of AI principles.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Data preprocessing and analysis",
+      "match": "NONE",
+      "evidence": "Although the candidate has experience with data processing, it is not explicitly stated as a core skill.",
+      "source": "INFERENCE",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Mathematical modeling and optimization",
+      "match": "NONE",
+      "evidence": "No direct mention of mathematical modeling or optimization skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.5
+    },
+    {
+      "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+      "match": "FULL",
+      "evidence": "The candidate has experience with deep learning frameworks like PyTorch and Keras.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Natural language processing",
+      "match": "NONE",
+      "evidence": "No explicit mention of natural language processing skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Computer vision and image processing",
+      "match": "NONE",
+      "evidence": "No direct mention of computer vision or image processing skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Data visualization and storytelling",
+      "match": "NONE",
+      "evidence": "No explicit mention of data visualization or storytelling skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.5
+    },
+    {
+      "requirement": "Python programming",
+      "match": "FULL",
+      "evidence": "The candidate has expertise in Python programming, as evident from their AI-related projects.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "R programming",
+      "match": "NONE",
+      "evidence": "No explicit mention of R programming skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Java programming",
+      "match": "NONE",
+      "evidence": "No direct mention of Java programming skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.7
+    },
+    {
+      "requirement": "C++ programming",
+      "match": "NONE",
+      "evidence": "No explicit mention of C++ programming skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.6
+    },
+    {
+      "requirement": "TensorFlow",
+      "match": "FULL",
+      "evidence": "The candidate has experience with TensorFlow, as evident from their AI-related projects.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "PyTorch",
+      "match": "FULL",
+      "evidence": "The candidate has experience with PyTorch, as evident from their AI-related projects.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Keras",
+      "match": "FULL",
+      "evidence": "The candidate has experience with Keras, as evident from their AI-related projects.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "scikit-learn",
+      "match": "NONE",
+      "evidence": "No explicit mention of scikit-learn skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.6
+    },
+    {
+      "requirement": "OpenCV",
+      "match": "NONE",
+      "evidence": "No direct mention of OpenCV skills in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.5
+    },
+    {
+      "requirement": "2+ years of AI engineering experience",
+      "match": "NONE",
+      "evidence": "The candidate has less than 2 years of experience, but they do have relevant projects and a strong foundation in AI.",
+      "source": "INFERENCE",
+      "importance": 0.8
+    },
+    {
+      "requirement": "1-2 years of research or development experience in AI/ML",
+      "match": "NONE",
+      "evidence": "No direct mention of research or development experience in AI/ML in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Portfolio of AI-related projects or publications",
+      "match": "FULL",
+      "evidence": "The candidate has a portfolio of AI-related projects, including Generative AI and computer vision applications.",
+      "source": "RESUME",
+      "importance": 0.6
+    },
+    {
+      "requirement": "Master's degree in Computer Science, AI, or related field",
+      "match": "NONE",
+      "evidence": "The candidate holds a Bachelor's degree in ICT engineering.",
+      "source": "RESUME",
+      "importance": 0.9
+    },
+    {
+      "requirement": "Bachelor's degree in Computer Science, AI, or related field with relevant certifications",
+      "match": "NONE",
+      "evidence": "No direct mention of relevant certifications in the candidate's profile.",
+      "source": "INFERENCE",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Effective communication and presentation",
+      "match": "FULL",
+      "evidence": "The candidate has effective communication skills, as evident from their summary.",
+      "source": "RESUME",
+      "importance": 0.8
+    },
+    {
+      "requirement": "Collaboration and teamwork",
+      "match": "FULL",
+      "evidence": "The candidate has experience with collaboration and teamwork through their volunteer work and student organizations.",
+      "source": "RESUME",
+      "importance": 0.7
+    },
+    {
+      "requirement": "Adaptability and continuous learning",
+      "match": "FULL",
+      "evidence": "The candidate is actively pursuing a degree in ICT Engineering and has experience with advanced software development from Computer Science studies.",
+      "source": "RESUME",
+      "importance": 0.6
+    }
+  ]
+  

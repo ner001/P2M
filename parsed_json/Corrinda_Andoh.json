@@ -1,0 +1,66 @@
+{
+  "name": "Corrinda Andoh",
+  "phone": "(421) 407-5566",
+  "email": "corrindaandoh@gmail.com",
+  "links": [
+    "linkedin.com/in/corrindaandoh"
+  ],
+  "experience": [
+    {
+      "company": "Boeing",
+      "title": "Lead AI Engineer",
+      "description": "Developed multi-layered AI model for Boeing St. Louis' fleet of commercial aircraft that increased efficiency by 15%, resulting in an estimated cost savings of $2 million annually. Led the integration of artificial intelligence into existing data systems enabling faster and more accurate decision-making processes across all departments; improved customer satisfaction ratings from 68% to 85%. Produced detailed documentation outlining best practices for using AI technology within the company, which was adopted as standard training protocol throughout all divisions; reduced training time by 30%.",
+      "start_date": "Sep 2022",
+      "end_date": "Present"
+    },
+    {
+      "company": "Cerner Corporation",
+      "title": "Senior AI Engineer",
+      "description": "Developed an AI-based patient monitoring system that improved Cerner Corporation's response time to medical emergencies by 25%, resulting in a 10% reduction in mortality rates. Architected and implemented an automated voice recognition software solution which reduced the average call wait times from 10 minutes to 2 minutes, leading to increased customer satisfaction ratings by 20%. Utilized natural language processing technology for automatic data extraction from various healthcare documents; this resulted in increasing operational efficiency and saving up to 4 hours per week on manual document review tasks.",
+      "start_date": "Jul 2017",
+      "end_date": "Jul 2020"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Science and Technology, MO",
+      "degree": "Bachelor of Science in Artificial Intelligence Engineering",
+      "start_date": "Sep 2015",
+      "end_date": "2020"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "Keras",
+      "Scikit-Learn"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Algorithm Development",
+      "Natural Language Processing (NLP)",
+      "Deep Learning",
+      "Computer Vision"
+    ]
+  },
+  "key_accomplishments": "Developed and deployed AI solutions that increased efficiency, reduced costs, and improved customer satisfaction for major organizations.",
+  "certifications": [
+    "IBM AI Engineering Professional Certificate, 2021",
+    "AWS Certified Machine Learning Specialty, Feb 2020"
+  ],
+  "projects": [],
+  "languages": [],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Engineer with over 10 years of professional experience developing, implementing and optimizing AI-based solutions. Extensive knowledge in deep learning, natural language processing and machine learning. Experience includes developing, training and deploying AI frameworks such as TensorFlow, Keras and Scikit-Learn; building custom APIs and web applications; proficient in Python, Java and C++. Completed end-to-end projects, including data pre-processing, training, testing and deployment. Work has enabled clients to improve their efficiency, accuracy and cost-effectiveness.",
+  "location": "St. Louis, MO"
+}

@@ -1,0 +1,151 @@
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "FULL",
+    "evidence": "Utilized knowledge engineering practices to develop detailed data models for a variety of complex software applications. Applied data mining and knowledge engineering techniques to solve complex business problems.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "FULL",
+    "evidence": "Proven success in building and deploying AI systems that deliver significant business value.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "PARTIAL",
+    "evidence": "Utilized knowledge engineering practices to develop detailed data models for a variety of complex software applications.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Mathematical modeling and optimization",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+    "match": "NEAR FULL",
+    "evidence": "Utilized knowledge engineering practices to develop detailed data models for a variety of complex software applications.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Natural language processing",
+    "match": "FULL",
+    "evidence": "Optimized existing knowledge engineering processes to increase efficiency and accuracy.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Computer vision and image processing",
+    "match": "PARTIAL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Data visualization and storytelling",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Python programming",
+    "match": "FULL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "R programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Java programming",
+    "match": "PARTIAL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "C++ programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "TensorFlow",
+    "match": "FULL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "PyTorch",
+    "match": "PARTIAL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Keras",
+    "match": "NEAR FULL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "scikit-learn",
+    "match": "PARTIAL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "OpenCV",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "2+ years of AI engineering experience",
+    "match": "PARTIAL",
+    "evidence": "Proven success in building and deploying AI systems that deliver significant business value.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "1-2 years of research or development experience in AI/ML",
+    "match": "PARTIAL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Portfolio of AI-related projects or publications",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Master's degree in Computer Science, AI, or related field",
+    "match": "FULL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.9
+  }
+]
+

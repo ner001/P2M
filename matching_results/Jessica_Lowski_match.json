@@ -1,0 +1,68 @@
+
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "FULL",
+    "evidence": "Designed and implemented a deep learning based object detection system for a retail client in 2021, improving product recognition accuracy by 4300%.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "PARTIAL",
+    "evidence": "Summary: Innovative AE Engineer with over 10 years of experience in designing and developing cutting-edge machine learning and deep learning solutions for leading technology companies.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "PARTIAL",
+    "evidence": "Experience: ... designing and developing state-of-the-art AI algorithms and solutions to optimise business growth for clients across various industries, including healthcare and finance.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Mathematical modeling and optimization",
+    "match": "NEAR FULL",
+    "evidence": "Key accomplishments: Designed and implemented a deep learning based object detection system for a retail client in 2021, improving product recognition accuracy by 4300%.",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+    "match": "FULL",
+    "evidence": "Technical skills: machine learning, deep learning, ...",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Natural language processing",
+    "match": "PARTIAL",
+    "evidence": "Summary: Innovative AE Engineer with over 10 years of experience in designing and developing cutting-edge machine learning and deep learning solutions for leading technology companies.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Computer vision and image processing",
+    "match": "PARTIAL",
+    "evidence": "Experience: ... designing and developing state-of-the-art AI algorithms and solutions to optimise business growth for clients across various industries, including healthcare and finance.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Data visualization and storytelling",
+    "match": "NEAR FULL",
+    "evidence": "Summary: Innovative AE Engineer with over 10 years of experience in designing and developing cutting-edge machine learning and deep learning solutions for leading technology companies.",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Python programming",
+    "match": "FULL",
+    "evidence": "Technical skills: machine learning, deep learning, ...",
+    "source": "RESUME",
+    "importance": 0.9
+  }
+]
+

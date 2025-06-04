@@ -1,0 +1,74 @@
+{
+  "name": "Alexander Jones",
+  "phone": "(123) 458-4152",
+  "email": "alexander@novoresume.com",
+  "links": [
+    "linkedin.com/in/alexanderjones",
+    "github.com/alexanderjones"
+  ],
+  "experience": [
+    {
+      "company": "The Arts of Artificial Game Tech Solutions",
+      "title": "Artificial Intelligence Engineer",
+      "description": "Design and execute well-engineered, easy-to-maintain, reliable, and bug-free code for various company applications in collaboration with other AI engineers, data scientists, programmers, and software personnel. Continuously improve gameplay with iOS and Android gaming applications by working with the existing code base and enhancing its different phases, including strategies, rules, and player-world interactions. Coordinate all technical and developmental issues/risks identified during the process to the team of 10+ engineers to formulate and initiate appropriate course of actions to ensure the timely completion of the version upgrade. Design, test, and deploy new artificial intelligence functionalities for 8 major projects of the company worth $5M in total. Author sophisticated and optimized codes for games to boost the reusability of standard modules.",
+      "start_date": "05/2017",
+      "end_date": null
+    },
+    {
+      "company": "CompuBrain Smart Innovations, Inc.",
+      "title": "Artificial Intelligence Programmer",
+      "description": "Utilized Google Maps to design codes for pathfinding, cooperation, and group movements for various gaming applications. Collaborated with the software team to execute effective strategies to attract a large number of clients, increase engagement, and expand the current customer base through artificial intelligence and big data analysis. Contributed innovative ideas to improve the technology in IoT security, resulting in a 28% increase in business revenue in the second quarter. Worked alongside a team of AI personnel to develop, test, and deploy software that effectively detects threats through artificial intelligence and machine learning principles to secure various IoT applications.",
+      "start_date": "03/2010",
+      "end_date": "06/2017"
+    },
+    {
+      "company": "AI Active Reality Machines Corp",
+      "title": "Artificial Intelligence Intern",
+      "description": null,
+      "start_date": "05/2009",
+      "end_date": "04/2010"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Massachusetts Lowell",
+      "degree": "Bachelor of Science in Computer Engineering",
+      "start_date": "08/2006",
+      "end_date": "06/2009"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "C#",
+      "C++",
+      "JavaScript",
+      "Java",
+      "Python",
+      "SQL",
+      "VB",
+      "LISP",
+      "Perl"
+    ],
+    "frameworks": [],
+    "skills": [
+      "GitHub"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [
+    "Professional Certificate Program in Machine Learning and Artificial Intelligence (2011) - MIT Professional Education",
+    "Introduction to Artificial Intelligence (2009) - by IBM",
+    "Machine Learning, Data Science, and Deep Learning with Python (2009) - MIT Professional Education"
+  ],
+  "projects": [
+    "Galaxy Combat Mobile Game Application (2015)"
+  ],
+  "languages": [],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Innovative Artificial Intelligence Engineer with 12+ years of experience in application design; development, testing, and deployment. Highly experienced in writing codes and algorithms as well as building complex neural networks through various programming languages. Possess an unbridled passion for Artificial Intelligence with comprehensive knowledge of machine learning concepts and other related technologies. Unmatched abilities to identify, understand, and translate program requirements into sustainable advanced technical solutions through C#, C++, JavaScript, Python, and other programs for continuous improvement of AI technologies.",
+  "location": "Springfield, MA"
+}

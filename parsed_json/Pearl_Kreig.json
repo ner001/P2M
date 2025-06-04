@@ -1,0 +1,55 @@
+{
+  "name": "Pearl Kreig",
+  "phone": "(442) 682 3251",
+  "email": "pearlkreig@gmail.com",
+  "links": [],
+  "experience": [
+    {
+      "company": "Wunsch and Sons",
+      "title": "Knowledge Engineer",
+      "description": "Utilized knowledge engineering practices to develop detailed data models for a variety of complex software applications. Applied data mining and knowledge engineering techniques to solve complex business problems. Developed algorithms and software tools to automate the knowledge engineering process.",
+      "start_date": "March 2023",
+      "end_date": null
+    },
+    {
+      "company": "Breitenberg Group",
+      "title": "Knowledge Engineer",
+      "description": "Optimized existing knowledge engineering processes to increase efficiency and accuracy. Collaborated with stakeholders to identify data requirements and develop knowledge engineering solutions. Managed end-to-end life cycles of knowledge engineering projects from requirements gathering to deployment.",
+      "start_date": "May 2021",
+      "end_date": "February 2023"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Maastricht University",
+      "degree": "Master of Science in Knowledge Engineering",
+      "start_date": "2017",
+      "end_date": "2021"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [],
+    "frameworks": [],
+    "skills": [
+      "Data Analytics Expert",
+      "Machine Learning Expert",
+      "Natural Language Processing Expert",
+      "Data Visualization Expert",
+      "Programming Expert",
+      "Database Management Expert"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [
+    "References available upon request."
+  ],
+  "summary": "Experienced Knowledge Engineer with 5+ years' experience in data mining, machine learning, and artificial intelligence. Proven success in building and deploying AI systems that deliver significant business value.",
+  "location": "Lake Wilmermouth, 60858-9681, New Jersey"
+}

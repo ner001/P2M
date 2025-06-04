@@ -1,0 +1,98 @@
+{
+  "name": "Mahdi Chekir",
+  "phone": "+216 52 689 115",
+  "email": "mahdi.chekir@supcom.tn",
+  "links": [
+    "LinkedIn: mehdichekir"
+  ],
+  "experience": [
+    {
+      "company": "Insightfull.pro",
+      "title": "DevOps intern",
+      "description": "Learned the basics of Docker, including images, containers, and related concepts. Created several Docker images for existing projects to facilitate future deployment. Developed strong teamwork skills, adhered to deadlines, and gained valuable experience working under the guidance of senior engineers.",
+      "start_date": "Jul 2024",
+      "end_date": "Aug 2024"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Higher School of Communication of Tunis",
+      "degree": "ICT Engineering Degree",
+      "start_date": "Sept 2023",
+      "end_date": null
+    },
+    {
+      "institution": "Preparatory Institute for Engineering Studies of Monastir",
+      "degree": "Pre-Engineering Studies (Maths - Physics)",
+      "start_date": "Sept 2021",
+      "end_date": "Jun 2023"
+    },
+    {
+      "institution": "Pioneer high school of Monastir",
+      "degree": "Experimental Sciences Baccalaureate",
+      "start_date": "Sept 2017",
+      "end_date": "Jun 2021"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "C++",
+      "C",
+      "JavaScript",
+      "Dart"
+    ],
+    "frameworks": [
+      "Node.js",
+      "Express",
+      "Laravel",
+      "PyTorch",
+      "LangChain",
+      "Streamlit"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Neo4j",
+      "ChromaDB",
+      "Qdrant",
+      "FAISS",
+      "MySQL",
+      "Firebase",
+      "MongoDB",
+      "Numpy",
+      "Pandas",
+      "GitHub Actions",
+      "Docker"
+    ]
+  },
+  "key_accomplishments": "Ranked 10th in the national pre-engineering exam. 2nd Place – ZEN Challenge, IEEE TSYP Competition (Nov 2024). 2nd Place – CAS Challenge, IEEE TSYP Competition (Nov 2024). AI Anatomy Hackathon (Apr 2025).",
+  "certifications": [],
+  "projects": [
+    "Food Classification Project (Nov 2024): Designed and trained a CNN with PyTorch to classify food images.",
+    "Full-Stack Health & Fitness Web Platform (Dec 2024): Built a web platform for healthy living with e-commerce integration.",
+    "AI-Powered Smart Navigation App (Feb 2025 - Present): Developed a Flutter app with OSM and Dijkstra’s algorithm for real-time navigation.",
+    "Multimodal AI Chatbot with Web Search and Voice Input (Mar 2025): Built a conversational AI assistant with Streamlit, voice/text recognition, Groq’s Gemma 2, LangChain, and web search.",
+    "AI-Powered Math Problem Solver and Knowledge Assistant (Mar 2025): Streamlit app integrating Groq’s Gemma 2, LangChain, Wikipedia search, and multi-tool agents."
+  ],
+  "languages": [
+    "Arabic (Native)",
+    "English (B2)",
+    "French (B2)",
+    "Spanish (A1)"
+  ],
+  "interests": [],
+  "hobbies": [],
+  "awards": [
+    "2nd Place – ZEN Challenge, IEEE TSYP Competition (Nov 2024)",
+    "2nd Place – CAS Challenge, IEEE TSYP Competition (Nov 2024)",
+    "AI Anatomy Hackathon (Apr 2025)"
+  ],
+  "volunteer_experience": [
+    "Vice-president, Sup’Com Junior Entreprise (Jul 2024 - Present): Managing quality standards and process optimization.",
+    "Active member, IEEE Sup’Com Student Branch (Oct 2023 - Present): Assisting with technical challenges and supporting events organization and execution."
+  ],
+  "references": [],
+  "summary": "ICT engineering student at SUPCOM with expertise in machine learning and Generative AI. Ranked 10th in the national pre-engineering exam. Currently pursuing a degree in ICT Engineering, with a strong foundation in advanced software development from Computer Science studies.",
+  "location": "Ariana, Tunisia"
+}

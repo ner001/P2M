@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+pandas
+pydantic
+llama_cloud_services
+xlsxwriter

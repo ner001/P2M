@@ -1,0 +1,60 @@
+{
+  "name": "Jessica Lowski",
+  "phone": "+12 3456 7890",
+  "email": "jlowskicemailcom",
+  "links": [
+    "LinkedIn Profile",
+    "Portfolio Link"
+  ],
+  "experience": [
+    {
+      "company": "SanTech International, Canberra",
+      "title": "Engineer",
+      "description": "Work as part of a team of engineers and data scientists at a multinational leading tech company, designing and developing state-of-the-art AI algorithms and solutions to optimise business growth for clients across various industries, including healthcare and finance.",
+      "start_date": "2019",
+      "end_date": null
+    },
+    {
+      "company": "SanTech International, Canberra",
+      "title": "Junior AI Engineer",
+      "description": "Contributed to the development and testing of AI language models and machine learning software for a leading technology company.",
+      "start_date": "Dec 2016",
+      "end_date": "Aug 2019"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Canberra University",
+      "degree": "Master's degree in Artificial Intelligence",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [],
+    "frameworks": [],
+    "skills": [
+      "machine learning",
+      "deep learning",
+      "data science",
+      "AI algorithms",
+      "cloud-based architectures",
+      "NLP",
+      "model architecture design",
+      "exploratory data analysis",
+      "data collection",
+      "ML pipeline automation"
+    ]
+  },
+  "key_accomplishments": "Designed and implemented a deep learning based object detection system for a retail client in 2021, improving product recognition accuracy by 4300%. Deployed a machine learning model for a finance company on the AWS cloud platform in 2020, reducing model inference time by 61%.",
+  "certifications": [],
+  "projects": [],
+  "languages": [],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Innovative AE Engineer with over 10 years of experience in designing and developing cutting-edge machine learning and deep learning solutions for leading technology companies. Experienced data scientist with a master's degree in Artificial Intelligence from Canberra University. Demonstrated expertise in driving sales growth through the development of sophisticated AI algorithms for complex software environments.",
+  "location": "Canberra"
+}

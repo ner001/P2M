@@ -1,0 +1,70 @@
+{
+  "name": "London Oreilly",
+  "phone": "(402) 778-8997",
+  "email": "londonoreilly@gmail.com",
+  "links": [],
+  "experience": [
+    {
+      "company": "Microsoft Corporation, PA",
+      "title": "Lead AI Engineer",
+      "description": "- Developed an AI-based system that led to a 30% reduction in customer service response time, accomplished by leveraging Natural Language Processing algorithms to identify customer queries and quickly direct them to the appropriate team.\n- Led a team of 5 engineers to develop a predictive analytics model for Microsoft Corporation, PA. This model was used to forecast customer behavior and enabled the company to better understand customer needs.\n- Implemented an image recognition system for Microsoft Corporation, PA. This system enabled the company to automate the process of identifying products, leading to a 20% increase in efficiency.\n- Designed and deployed an AI-driven chatbot for Microsoft Corporation, PA. The chatbot handled customer inquiries, resulting in a 15% increase in customer satisfaction.",
+      "start_date": "Jan 2021",
+      "end_date": "Present"
+    },
+    {
+      "company": "Apple Inc, PA",
+      "title": "Senior AI Engineer",
+      "description": "- Developed a natural language processing (NLP) model for Apple’s Voice Assistant that improved accuracy by 20% and response time by 40%.\n- Developed an AI-based image recognition system for Apple’s mobile devices that reduced the time required to recognize objects from seconds to milliseconds.\n- Developed an AI-based facial recognition system for Apple's mobile devices that improved accuracy from 80% to 95%.\n- Optimized Apple’s AI-based recommendation engine that increased user engagement by 15%, resulting in a 10% increase in revenue.",
+      "start_date": "Jul 2020",
+      "end_date": "Nov 2022"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University, Pittsburgh, PA",
+      "degree": "Bachelor of Science in Artificial Intelligence Engineering",
+      "start_date": null,
+      "end_date": null
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "Scikit-Learn"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Data Science",
+      "Algorithm Design Analysis",
+      "Software Engineering"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [
+    "IBM AI Engineering Professional Certificate, 2021",
+    "AWS Certified Machine Learning Specialty, 2020"
+  ],
+  "projects": [],
+  "languages": [
+    "English",
+    "Italian"
+  ],
+  "interests": [],
+  "hobbies": [
+    "Machine Learning",
+    "Robotics"
+  ],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Engineer with over years of industry experience and deploying AI solutions for various organizations. I have extensive experience in creating, analyzing, and optimizing models and algorithms. I have an in-depth understanding of Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision technologies. Proficient in Python, TensorFlow, Keras, PyTorch, and Scikit-Learn. My expertise includes development of data pipelines, data engineering, and integration of models with existing systems. I have successfully deployed a number of projects and have trained numerous teams in technologies.",
+  "location": "Pittsburgh, PA"
+}

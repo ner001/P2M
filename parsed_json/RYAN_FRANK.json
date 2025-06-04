@@ -1,0 +1,73 @@
+{
+  "name": "Ryan Frank",
+  "phone": "202-555-0120",
+  "email": "info@resumekraft.com",
+  "links": [
+    "in linkedin com/resumekraft"
+  ],
+  "experience": [
+    {
+      "company": "Oracle Cerner Healthcare Solutions India Pvt Ltd",
+      "title": "Senior Associate Software Engineer",
+      "description": "Learnt and adapted new technologies to build cutting-edge artificial intelligence products. Developed data science skills to prototype machine learning model applications. Created applications as per requirements to make critical predictions and decisions.",
+      "start_date": "Dec 2022",
+      "end_date": null
+    },
+    {
+      "company": "Oracle Cerner Healthcare Solutions India Pvt Ltd",
+      "title": "Senior Associate Software Engineer",
+      "description": "Applied industry best practices for software development with Java and OIC technologies. Worked with team to design and develop robust solutions to meet product requirements for functionality, scalability, and performance. Trouble-shoot complex problems or issues through in-depth analysis of variable data sets and factors. Reviewed project specifications and designed technology solutions that met or exceeded performance expectations. Provided guidance to new teams and mentored new associates joining the industry from academics.",
+      "start_date": "Jul 2019",
+      "end_date": "Dec 2022"
+    }
+  ],
+  "education": [
+    {
+      "institution": "International Institute of Professional Studies, DAW",
+      "degree": "M. Tech IT (Integrated)",
+      "start_date": "Jun 2014",
+      "end_date": "Dec 2019"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "R"
+    ],
+    "frameworks": [
+      "Oracle ADS SDKs",
+      "Oracle AutoML",
+      "Maven",
+      "Junit",
+      "Jersey"
+    ],
+    "skills": [
+      "Machine Learning Algorithms",
+      "Oracle ADS SDKs for Data Science and ML",
+      "Python for Data Science",
+      "Oracle AutoML",
+      "Java SE",
+      "Maven",
+      "Junit",
+      "Jersey for ReST APIs"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [
+    "Artificial Intelligence Engineer - 2022-08-02 - Simplilearn",
+    "Application Integration Professional - 2023-08-28 - Oracle"
+  ],
+  "projects": [
+    "Preterm Birth Detection (Feb 2023 - Aug 2023): Preterm birth detection model with EHR on persons who are currently pregnant; Tech Stack: Python, Oracle ADS SDKs, Oracle AutoML",
+    "Infusion Rate Calculation (Mar 2022 - Dec 2022): Infusion rate calculation for IV solutions using normalized rates."
+  ],
+  "languages": [],
+  "interests": [],
+  "hobbies": [],
+  "awards": [],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Results-driven Artificial Intelligence Engineer with a solid background in machine learning and deep learning algorithms. Skilled in developing AI and ML models, analyzing complex data sets, and implementing natural language processing techniques. Proficient in programming languages such as Python and R. Strong problem-solving abilities and a track record of successful project delivery: Seeking to leverage my expertise to drive innovation and advance AI technologies.",
+  "location": "Chicago, Illinois, US"
+}

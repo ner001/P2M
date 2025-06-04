@@ -1,0 +1,178 @@
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "PARTIAL",
+    "evidence": "Conducted research on multimodal AI techniques, designed privacy-preserving training, developed data annotation tools, optimized model accuracy, integrated generative models with analytics, designed monitoring systems, and improved model reliability.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "PARTIAL",
+    "evidence": "Developed data annotation tools, optimized model accuracy, integrated generative models with analytics, designed monitoring systems, and improved model reliability.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Mathematical modeling and optimization",
+    "match": "NEAR FULL",
+    "evidence": "Optimized model accuracy, integrated generative models with analytics, designed monitoring systems, and improved model reliability.",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+    "match": "FULL",
+    "evidence": "Implemented generative algorithms using unknown deep learning framework.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Natural language processing",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Computer vision and image processing",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Data visualization and storytelling",
+    "match": "PARTIAL",
+    "evidence": "Designed monitoring systems, and improved model reliability.",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "Python programming",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "R programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Java programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "C++ programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "TensorFlow",
+    "match": "FULL",
+    "evidence": "Implemented generative algorithms using TensorFlow.",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "PyTorch",
+    "match": "PARTIAL",
+    "evidence": "Implemented generative algorithms using unknown deep learning framework.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Keras",
+    "match": "FULL",
+    "evidence": "Implemented generative algorithms using Keras.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "scikit-learn",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "OpenCV",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.5
+  },
+  {
+    "requirement": "2+ years of AI engineering experience",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "1-2 years of research or development experience in AI/ML",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Portfolio of AI-related projects or publications",
+    "match": "PARTIAL",
+    "evidence": "Developed data annotation tools, optimized model accuracy, integrated generative models with analytics, designed monitoring systems, and improved model reliability.",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Master's degree in Computer Science, AI, or related field",
+    "match": "FULL",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "Bachelor's degree in Computer Science, AI, or related field with relevant certifications (e.g., AWS Certified Developer - Specialty)",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Effective communication and presentation",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Collaboration and teamwork",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Adaptability and flexibility",
+    "match": "FULL",
+    "evidence": "Summary: Results-driven Generative AI Engineer with 10 years of experience in developing innovative AI solutions.",
+    "source": "RESUME",
+    "importance": 0.6
+  }
+]

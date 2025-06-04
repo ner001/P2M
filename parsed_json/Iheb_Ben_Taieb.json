@@ -1,0 +1,95 @@
+{
+  "name": "Iheb Ben Taieb",
+  "phone": "+216 98 570 038",
+  "email": "iheb.bentaieb@supcom.tn",
+  "links": [
+    "https://github.com/Ihebbettaiebe",
+    "https://www.linkedin.com/in/iheb-bettaib-a9590b350/"
+  ],
+  "experience": [
+    {
+      "company": "Alkhayal Agency",
+      "title": "Software Developer (Part-time)",
+      "description": "Developed and deployed responsive websites using Svelte, Express, and NodeJs. Implemented SEO optimization strategies to improve client site visibility. Enhanced mobile responsiveness for cross-platform compatibility. Prioritized user experience and performance metrics in all development work.",
+      "start_date": "Jan 2025",
+      "end_date": "Present"
+    },
+    {
+      "company": "360° Marketing",
+      "title": "Intern Developer",
+      "description": "Contributed to full-stack development using MERN (MongoDB, Express, React, Node.js) stack. Designed and implemented RESTful APIs and MongoDB database schemas. Developed secure authentication systems using JSON Web Tokens (JWT).",
+      "start_date": "Summer 2022",
+      "end_date": "Summer 2022"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Higher School of Communications of Tunis (Sup’Com)",
+      "degree": "B.E. in Telecommunications Engineering",
+      "start_date": "2023",
+      "end_date": "2026"
+    }
+  ],
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "JavaScript",
+      "C++"
+    ],
+    "frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "YOLO",
+      "OpenCV",
+      "MediaPipe",
+      "MLflow",
+      "Kubeflow",
+      "React",
+      "Node.js",
+      "Express.js"
+    ],
+    "skills": [
+      "Model Deployment",
+      "CI/CD",
+      "HTML/CSS",
+      "MongoDB",
+      "MySQL",
+      "Firebase",
+      "Git",
+      "Docker",
+      "Cloud Services",
+      "WebSockets",
+      "REST APIs",
+      "JWT Auth"
+    ]
+  },
+  "key_accomplishments": "",
+  "certifications": [
+    "ISC2 Certified in Cybersecurity (CC) – July 2024",
+    "Microsoft Security Fundamentals (SC-900) – May 2024"
+  ],
+  "projects": [
+    "CoMirror – Educational Platform for Deaf Children",
+    "Smart Retail Behavior Detection (MLOps Project)",
+    "F1 AI Race Predictor",
+    "Sensory Scape – Sensory Stimulation System for Autistic Children"
+  ],
+  "languages": [
+    "Arabic – Native",
+    "French – Fluent",
+    "English – Professional Working Proficiency"
+  ],
+  "interests": [],
+  "hobbies": [],
+  "awards": [
+    "IEEE Sup’Com Student Branch Chairman (2024–Present)",
+    "2nd Place – Arabic Youth Bootcamp, UAE",
+    "3rd Place – TN2056 Challenge at IEEE TSYP Congress 12th for Sensory Scape project",
+    "3rd Place – MAE MutualHack Hackathon",
+    "3rd Place – GothamHack Hackathon"
+  ],
+  "volunteer_experience": [],
+  "references": [],
+  "summary": "Telecommunications Engineering student at Sup’Com with strong expertise in Artificial Intelligence, Machine Learning, and Computer Vision. Experienced in developing AI-driven MLOps solutions and full-stack applications with a proven track record in hackathons. Seeking an internship opportunity to apply my machine learning and deep learning skills to solve complex real-world problems.",
+  "location": "Tunisia"
+}

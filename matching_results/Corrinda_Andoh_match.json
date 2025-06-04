@@ -1,0 +1,61 @@
+
+
+[
+  {
+    "requirement": "Machine learning algorithms",
+    "match": "FULL",
+    "evidence": "Developed multi-layered AI model for Boeing St. Louis' fleet of commercial aircraft that increased efficiency by 15%, resulting in an estimated cost savings of $2 million annually.",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Artificial intelligence principles",
+    "match": "FULL",
+    "evidence": "Led the integration of artificial intelligence into existing data systems enabling faster and more accurate decision-making processes across all departments;",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Data preprocessing and analysis",
+    "match": "FULL",
+    "evidence": "Utilized natural language processing technology for automatic data extraction from various healthcare documents;",
+    "source": "RESUME",
+    "importance": 0.6
+  },
+  {
+    "requirement": "Deep learning frameworks (TensorFlow, PyTorch, Keras)",
+    "match": "FULL",
+    "evidence": "Building custom APIs and web applications; proficient in TensorFlow, Keras and Scikit-Learn;",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "Natural language processing",
+    "match": "FULL",
+    "evidence": "Utilized natural language processing technology for automatic data extraction from various healthcare documents;",
+    "source": "RESUME",
+    "importance": 0.7
+  },
+  {
+    "requirement": "Python programming",
+    "match": "FULL",
+    "evidence": "Proficient in Python, Java and C++; Completed end-to-end projects, including data pre-processing, training, testing and deployment.",
+    "source": "RESUME",
+    "importance": 0.9
+  },
+  {
+    "requirement": "R programming",
+    "match": "NONE",
+    "evidence": "",
+    "source": "RESUME",
+    "importance": 0.8
+  },
+  {
+    "requirement": "2+ years of AI engineering experience",
+    "match": "FULL",
+    "evidence": "Work has enabled clients to improve their efficiency, accuracy and cost-effectiveness.",
+    "source": "RESUME",
+    "importance": 0.8
+  }
+]
+
